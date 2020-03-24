@@ -1,7 +1,7 @@
-# M5Stack PM Panic (under construction)
+# M5Stack PM Panic
 Cartoon animation application with [M5Stack PM2.5 sensor kit](https://m5stack.com/products/pm-2-5-sensor-usb-power-sht20).<br>
 
-[Youtube](https://www.youtube.com/)
+[Youtube](https://youtu.be/hCJ9zm065gY)
 
 ![PMPanic_1](https://user-images.githubusercontent.com/46808493/77369428-f709d380-6da1-11ea-87dc-c7421c83a8b5.jpg)
 
