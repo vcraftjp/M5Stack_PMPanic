@@ -23,7 +23,7 @@ become aware of the risks from a young age and raise awareness within
 their communities. It can also be helpful tool in discussions of risks
 between public health nurses and households as well as in changing
 behaviors, based on the measured data.<br>
-https://sites.google.com/view/design4humanity/indoorair
+https://www.design4humanity.com/indoorair
 
 ## How to play
 
